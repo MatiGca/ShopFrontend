@@ -1,0 +1,2 @@
+# ShopFrontend
+Angular based store
